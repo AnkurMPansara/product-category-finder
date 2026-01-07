@@ -11,8 +11,8 @@
 	<groupId>com.ankur</groupId>
 	<artifactId>prodcat</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>prodcat</name>
-	<description>Spring server for categorizing products</description>
+	<name>product-category-finder</name>
+	<description>Web service to find product category</description>
 	<url/>
 	<licenses>
 		<license/>
